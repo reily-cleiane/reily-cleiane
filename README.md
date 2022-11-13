@@ -3,7 +3,7 @@ clei.bondade@gmail.com
    
 - :woman_student: Estudo Tecnologia da Informação na UFRN desde 2020.
 - :woman_office_worker: Trabalho na Superintedência de Tecnologia da Informação da UFRN como desenvolvedora back-end.
-- :books: Estou aprendendo React
+- :books: Estou aprendendo Flutter
 - :speech_balloon: Gosto de falar sobre: livros, animes, séries, jogos e programação.
 
 ### :computer: Tecnologias e ferramentas
@@ -27,7 +27,6 @@ clei.bondade@gmail.com
     </td>
     <td rowspan="2"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=40rem />   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width=40rem />   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40rem />   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=40rem /> 
     </td>
